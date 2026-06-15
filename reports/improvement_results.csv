@@ -1,0 +1,4 @@
+model,RMSE,MAE,NASA_Score,Alert_Recall,FNR,n_actual_alert,FN_count
+Ridge_ts,17.44,14.42,469.3,0.56,0.44,25.0,11.0
+RandomForest_ts,14.67,10.76,356.3,0.72,0.28,25.0,7.0
+GradientBoosting_ts,14.99,11.0,395.4,0.8,0.2,25.0,5.0

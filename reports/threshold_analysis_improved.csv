@@ -1,0 +1,7 @@
+threshold,Precision,Recall,F1,FNR,TP,FP,FN,TN,model
+30,0.947,0.72,0.818,0.28,18,1,7,74,RandomForest_ts
+40,0.893,1.0,0.943,0.0,25,3,0,72,RandomForest_ts
+50,0.833,1.0,0.909,0.0,25,5,0,70,RandomForest_ts
+60,0.676,1.0,0.806,0.0,25,12,0,63,RandomForest_ts
+65,0.658,1.0,0.794,0.0,25,13,0,62,RandomForest_ts
+70,0.641,1.0,0.781,0.0,25,14,0,61,RandomForest_ts
