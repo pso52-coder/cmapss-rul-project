@@ -1,8 +1,0 @@
-engine_id,true_RUL,pred_RUL,error(pred-true),last_obs_cycle,est_total_life,life_group,model
-18,28,67.6,39.6,133,161,short,RandomForest
-37,21,58.3,37.3,121,142,short,RandomForest
-41,18,66.8,48.8,123,141,short,RandomForest
-53,26,34.6,8.6,164,190,mid,RandomForest
-61,21,50.1,29.1,159,180,short,RandomForest
-64,28,48.8,20.8,168,196,mid,RandomForest
-90,28,35.0,7.0,146,174,short,RandomForest

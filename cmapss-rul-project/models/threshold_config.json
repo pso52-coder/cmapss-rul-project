@@ -1,8 +1,0 @@
-{
-  "dataset": "FD001",
-  "model": "RandomForest_ts",
-  "threshold": 40,
-  "threshold_status": "candidate_operating_value",
-  "base_threshold": 30,
-  "note": "threshold=40 was selected from FD001 test analysis. Validation-based threshold optimization has not yet been performed."
-}

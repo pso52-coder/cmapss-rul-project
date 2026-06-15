@@ -1,7 +1,0 @@
-model,RMSE,MAE,NASA_Score,Alert_Recall,FNR,n_actual_alert,FN_count
-Baseline_mean,43.07,35.9,33629.2,0.0,1.0,25.0,25.0
-Baseline_cycle_LR,33.34,27.59,5318.9,0.04,0.96,25.0,24.0
-LinearRegression,21.69,17.44,1287.5,0.36,0.64,25.0,16.0
-Ridge,21.69,17.44,1285.3,0.36,0.64,25.0,16.0
-RandomForest,18.16,13.24,950.5,0.72,0.28,25.0,7.0
-GradientBoosting,18.39,13.09,1144.0,0.72,0.28,25.0,7.0

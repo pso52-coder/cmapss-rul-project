@@ -1,9 +1,0 @@
-threshold,Precision,Recall,F1,FNR,TP,FP,FN,TN,model
-30,0.947,0.72,0.818,0.28,18,1,7,74,RandomForest
-40,0.909,0.8,0.851,0.2,20,2,5,73,RandomForest
-50,0.778,0.84,0.808,0.16,21,6,4,69,RandomForest
-60,0.676,0.92,0.78,0.08,23,11,2,64,RandomForest
-30,1.0,0.72,0.837,0.28,18,0,7,75,GradientBoosting
-40,0.909,0.8,0.851,0.2,20,2,5,73,GradientBoosting
-50,0.724,0.84,0.778,0.16,21,8,4,67,GradientBoosting
-60,0.667,0.88,0.759,0.12,22,11,3,64,GradientBoosting
