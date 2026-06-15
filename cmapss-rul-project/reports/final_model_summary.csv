@@ -1,0 +1,13 @@
+item,value
+final_model,RandomForest_ts (시계열 피처)
+operating_threshold,40 (FD001 기준 후보 운영값)
+RMSE,14.67
+MAE,10.76
+NASA_Score,356.3
+Precision,0.893
+Recall,1.00
+FNR,0.00
+FP,3
+FN,0
+basis,FD001 test 100 engines (last cycle vs RUL_FD001.txt)
+note,일반화 보장 아님 / threshold는 FP비용 감안한 운영정책
